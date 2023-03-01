@@ -2,7 +2,7 @@
 
 This is a JoinX plugin. This plugin will send the title or ui when the player join. This plugin for [BDSX Server](https://github.com/bdsx/bdsx).
 
-![Preview](./resources/title.png)
+![Preview](https://github.com/ItzCandra23/join-x/blob/main/resources/title.png)
 
 ## Commands
 
@@ -12,7 +12,7 @@ This is a JoinX plugin. This plugin will send the title or ui when the player jo
 
 You can customize in `config.json` file.
 
-```json
+```js
     "jointitle": {
         // This is title
         "title": "&l&aJoin-X",
