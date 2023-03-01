@@ -1,0 +1,20 @@
+{
+  "jointitle": {
+    "title": "&l&aJoin-X",
+    "subtitle": "&dWelcome {name}",
+    "enable": true
+  },
+  "joinui": {
+    "title": "&l&2Join-X",
+    "content": "Hi! &a{name}&r this is a &aJoinX&r plugin for BDSX.\n\n  &rName: &a{name}\n  &rHealth: &a{health}/{max_health}\n  &rPlatform: &a{platform}\n  &rPlayers: &a{online}/{max_online}\n  &rDimension: &a{dimension}\n  &rPos: &8[ &a{x}, {y}, {z} &8]\n\nYou can download this plugin from &ahttps://github.com/ItzCandra23/join-x",
+    "close": {
+      "text": "&l&7[ &cClose &7]",
+      "type": "path",
+      "path": "textures/blocks/barrier"
+    },
+    "enable": true
+  },
+  "enable": true,
+  "consoleMessage": "{name} joined to this server!",
+  "sendToConsole": true
+}

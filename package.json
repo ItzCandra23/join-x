@@ -1,0 +1,17 @@
+{
+    "name": "@bdsx/join-x",
+    "version": "1.0.0",
+    "description": "JoinX plugin for BDSX.",
+    "main": "index.js",
+    "keywords": [
+        "join-x",
+        "plugin",
+        "BDSX"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bdsxPlugin": true,
+    "devDependencies": {
+        "bdsx": "file:../bdsx"
+    }
+}
